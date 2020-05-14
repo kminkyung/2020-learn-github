@@ -3,7 +3,7 @@
 ## h2
 ### h3
 
-master branch
+- REBASE TEST
 
 * ul
 
@@ -11,8 +11,6 @@ master branch
 2. li
 3. li
 
-pull request 테스트2222
-Release version 
 ---
 ~~~js
 const js = "JavaScript";
