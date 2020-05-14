@@ -1,3 +1,2 @@
-const test = "test1111"
-
-const a = "a";
+const hello = 'hello world';
+console.log(hello);
