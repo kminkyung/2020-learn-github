@@ -3,7 +3,7 @@
 ## h2
 ### h3
 
-- REBASE TEST
+- REBASE TEST2
 
 * ul
 
