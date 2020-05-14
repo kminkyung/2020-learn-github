@@ -4,5 +4,5 @@ const branch = function() {
 };
 
 const rebase = function() {
-  console.log("rebase");
+  console.log("rebase2");
 }
