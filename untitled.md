@@ -3,7 +3,7 @@
 ## h2
 ### h3
 
-- REBASE TEST branch1
+- REBASE TEST2
 
 * ul
 
