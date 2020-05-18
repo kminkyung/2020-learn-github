@@ -3,9 +3,6 @@
 ## h2
 ### h3
 
-Reset Mixed Test
-
-
 * ul
 
 1. li
